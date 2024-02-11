@@ -1,6 +1,3 @@
-workspace "Retr0Log"
-   configurations { "Debug", "Release" }
-
 project "Retr0Log"
     kind "SharedLib"
     language "C#"
